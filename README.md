@@ -10,8 +10,8 @@ Nodejs preparation-day-01
 # 2. what is NPM?
 
 #### NPM stands for node package manager.its the default package manager for js runtime nodejs.
-#### npm consists of two parts-1st is CLI(command-line-interface) which is used for publishing and downloading packages.2nd is an online repository which containes the js packages.
-#### npm has more than 19lakh packages.
+#### npm consists of two parts - 1st one is CLI(command-line-interface) which is used for publishing and downloading packages.2nd is an online repository which containes the js packages.
+#### npm has more than 19-lakh packages.
 
 # 3. What are the different modules in Node.js?
 
