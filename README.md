@@ -5,7 +5,7 @@ Nodejs preparation-day-01
 
 #### Nodejs is an open source,cross platform backend js runtime environment where js code can be executed outside the web browser.
 #### nodejs operates on single thread,non-blocking io codes.
-#### it is used for easily building fast and scalable network applications.
+#### Nodejs is a event driven programming language.
 
 # 2. what is NPM?
 
